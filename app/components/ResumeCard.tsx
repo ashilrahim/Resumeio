@@ -1,5 +1,4 @@
-import { link } from "fs"
-import { Links } from "react-router"
+
 import { Link } from "react-router"
 import ScoreCircle from "./ScoreCircle"
 
